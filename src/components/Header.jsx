@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import { motion } from "framer-motion"
-import bgImage from '../assets/header_img.png'
+
 
 const Header = () => {
   return (
