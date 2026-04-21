@@ -6,7 +6,6 @@ import Testimonails from './components/Testimonails'
 import Contact from './components/Contact'
 import { ToastContainer } from 'react-toastify';
 import Footer from './components/Footer'
-import Signup from './components/Signup'
 import Navbar from './components/Navbar'
 
 
@@ -20,9 +19,8 @@ const App = () => {
       <Testimonails />
       <Contact />
       <Footer />
-      <Signup />
-      <Navbar/>
-      
+      <Navbar />
+
     </div>
   )
 }
